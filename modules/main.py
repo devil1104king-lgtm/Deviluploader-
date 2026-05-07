@@ -49,15 +49,15 @@ class db:
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Inline keyboard for start command
-BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="🔎Developer", url="https://t.me/The_SK_08")]])
+BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="🔎Developer", url="https://t.me/SunilChoudhary08")]])
 keyboard = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(text="🛠️ Channel", url="https://t.me/The_Sk08"),
-            InlineKeyboardButton(text="👑 Owner", url="https://t.me/SunilChoudhary08"),
+            InlineKeyboardButton(text="👑 Owner", url="https://t.me/The_SK_08"),
         ],
         [
-            InlineKeyboardButton(text="🔎 Developer", url="https://t.me/The_SK_08"),
+            InlineKeyboardButton(text="🔎 Developer", url="https://t.me/SunilChoudhary08"),
         ],
     ]
 )
@@ -205,7 +205,7 @@ async def owner_handler(client: Client, msg: Message):
 
     owner_text = (
         "┌──────────────────────────┐\n"
-        "**My Owner**:@SunilChoudhary08\n"
+        "**My Owner**:@The_SK_08\n"
         "└──────────────────────────┘\n\n"
     )
 
