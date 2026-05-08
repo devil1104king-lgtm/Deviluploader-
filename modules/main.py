@@ -72,14 +72,30 @@ PWAPI2 = "https://anonymouspwplayerr-3cfbfedeb317.herokuapp.com/pw"
 
 # ── Random image list (add/remove URLs freely) ────────────────────────────────
 image_list = [
-    "https://i.postimg.cc/YGD3jxBq/0b050809-c5f4-4316-a667-f96c6260883e.jpg",
-    "https://i.postimg.cc/BL7gtCfL/44c949c6-955b-4087-bb28-4ba07d9d95a1.jpg",
-    "https://i.postimg.cc/tZv57zGQ/9a0b051e-a6d6-47d5-9287-716ac88b0def.jpg",
-    "https://i.postimg.cc/0MXfrC1k/f251b2c7-1990-4d2e-bb83-0a9802b32fec.jpg",
-    "https://i.postimg.cc/zb2j3kYD/f3cb4d6f-f5b6-4f6e-bb68-c488ee4e104a.jpg",
-    "https://i.postimg.cc/9wMcYCkv/2a310da3-934b-4f4d-be6e-87550146d6bc.jpg",
-    "https://i.postimg.cc/jn5R4t1p/5b959da4-18b6-4d00-ae6c-1d1325e68da9.jpg",
-    "https://i.postimg.cc/gLJGHm71/413dcaa3-c372-4bac-b527-d92e11e9db0e.jpg",
+    "https://i.postimg.cc/LXxNKRWz/0b050809-c5f4-4316-a667-f96c6260883e.jpg",
+    "https://i.postimg.cc/4dWBkZ0V/29727037-c001-4552-9ccd-35e32220aaf3.jpg",
+    "https://i.postimg.cc/JnpPVmFX/2a310da3-934b-4f4d-be6e-87550146d6bc.jpg",
+    "https://i.postimg.cc/90z1cK3L/3c8f2de5-b6be-403e-9f41-14f1d9119f3b.jpg",
+    "https://i.postimg.cc/cC6Td2q7/413dcaa3-c372-4bac-b527-d92e11e9db0e.jpg",
+    "https://i.postimg.cc/hvhMK6Fy/44c949c6-955b-4087-bb28-4ba07d9d95a1.jpg",
+    "https://i.postimg.cc/hvhMK6FM/50162a91-50a9-4dff-91f1-cea2057ba601.jpg",
+    "https://i.postimg.cc/prykP4N6/5b959da4-18b6-4d00-ae6c-1d1325e68da9.jpg",
+    "https://i.postimg.cc/Fz1Gh8t2/788f253c-f763-4f00-a438-f00b1bbd5ba1.jpg",
+    "https://i.postimg.cc/D0D606FN/868e389c-61d6-4c2a-b4ee-49a9105d09d9.jpg",
+    "https://i.postimg.cc/j2CvRm0Y/9a0b051e-a6d6-47d5-9287-716ac88b0def.jpg",
+    "https://i.postimg.cc/90z1cK5C/a4af2e6e-9f4d-4296-a532-7a5728367f31.jpg",
+    "https://i.postimg.cc/x87585Yh/Cute-Panda-Peace-Sign-Kawaii-Aesthetic-Animal-Art.jpg",
+    "https://i.postimg.cc/HnKznzHf/d5aef0a0-7fbc-4840-97c5-3419ea310724.jpg",
+    "https://i.postimg.cc/Bbypbpsr/e77fdbe4-9c32-40fd-af94-beeadd2f6344.jpg",
+    "https://i.postimg.cc/0j3njnPs/e930357f-3bfb-4921-9056-4f4655646f3f.jpg",
+    "https://i.postimg.cc/1XTBXBsS/f251b2c7-1990-4d2e-bb83-0a9802b32fec.jpg",
+    "https://i.postimg.cc/pr7CrCRx/f3cb4d6f-f5b6-4f6e-bb68-c488ee4e104a.jpg",
+    "https://i.postimg.cc/tJfkJkps/f67d90e1-47e9-4c95-92d5-2215159ee33f.jpg",
+    "https://i.postimg.cc/pr7CrCR5/fa45ddba-81af-4935-b820-e4ae5819a015.jpg",
+    "https://i.postimg.cc/mkqjkjBD/Ghost-phone-wallpaper.jpg",
+    "https://i.postimg.cc/ZRwVtZQq/image.jpg",
+    "https://i.postimg.cc/rmfQXcHj/image.jpg",
+    "https://i.postimg.cc/qqYwqw4q/om-nama-shivay.jpg",
 ]
 # ─────────────────────────────────────────────────────────────────────────────
 
